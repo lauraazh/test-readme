@@ -1,0 +1,16 @@
+:root {
+  --color-color: #ffffff;
+  --color-border-border-focused: #c03b0b;
+  --color-border-border-primary: #825e51;
+  --color-border-border-secondary: rgba(81, 103, 130, 0.15);
+  --color-button-border-secondary: #c03b0b;
+  --color-button-surface-primary: #c03b0b;
+  --color-button-surface-secondary: #fff5f1;
+  --color-button-text-onprimary: #fffdfc;
+  --color-surface-surface-brand: #fdf1df;
+  --color-surface-surface-primary: #fffdfc;
+  --color-surface-surface-secondary: #fff5f1;
+  --color-text-text-action: #ffffff;
+  --color-text-text-primary: #481604;
+  --color-text-text-secondary: #825e51;
+}
