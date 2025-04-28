@@ -1,0 +1,18 @@
+{
+  "Boolean": {
+    "type": "boolean",
+    "value": false
+  },
+  "linked read": {
+    "type": "color",
+    "value": "{New group.RREED}"
+  },
+  "surf face sceond": {
+    "type": "color",
+    "value": "{surface.surface-secondary}"
+  },
+  "wite": {
+    "type": "color",
+    "value": "#ffffff"
+  }
+}
